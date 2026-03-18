@@ -1,0 +1,32 @@
+server:  #Map 
+  port: 80
+  host: localhost
+
+database:     # Map & Dictionaries
+  name: demo_db
+  port: 5432
+  username: Utsav
+  password: secret
+
+features:       # list
+  - signup
+  - logging
+  - analytics
+
+feature:     # Nested Dictionaries
+  signup: true
+  logging: true
+  analytics: 
+    enabled: true
+    provider: google
+
+cache: 
+  type: null
+  enabled: false
+
+security:   # Multi-level nesting 
+  cors:
+    enabled: true
+    allowed_origins:
+      - https://example.com
+      - https://api.example.com
