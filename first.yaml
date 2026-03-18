@@ -1,0 +1,23 @@
+appName: firstApp
+version: 2.1
+enabled: true
+server: 
+  host: localhost
+  port: 8080
+users:
+  - Utsav
+  - Singh
+  - Rajput
+
+database: 
+  host: 127.1.1.1
+  port: 5423
+
+---
+appName: SecondApp
+version:
+fruits: 
+  - graps
+  - orange 
+  - bananan
+  
