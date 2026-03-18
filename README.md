@@ -75,7 +75,7 @@ YAML is widely used in:
 ## Sample YAML
 
 ```yaml
-name: "John"
+name: "Utsav Singh"
 age: 25
 is_active: true
 
