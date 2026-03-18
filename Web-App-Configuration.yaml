@@ -1,0 +1,21 @@
+# Below scenario -Block style enhances clarity and nesting hierarchy.
+server:
+  host: "localhost"
+  port: 8080
+
+# Below scenario - Indentation visually separates database properties and credentials
+database: 
+  type: postgres
+  host: db.example.com
+  port: 5432
+  credentials:
+    user: Utsav Singh
+    password: 123@Utsav
+
+# Below scenario - Lists (Like features) are shown line-by-line for readability.
+feature: 
+  - login 
+  - signup
+  - email-verification
+
+#Note: Common for application configs, easy to manage and review  in DevOps Pipeline.
