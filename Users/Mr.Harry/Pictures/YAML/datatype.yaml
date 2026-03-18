@@ -1,0 +1,30 @@
+# Welcome to YAML Classes Mr. Jahruddeen
+
+# This is a demo for understanding data types in YAML
+
+name: "John"              # String
+age: 25                  # Integer
+is_active: true          # Boolean
+is_admin: false          # Boolean
+middle_name: null        # Null value
+
+bio: >                   # Folded multi-line string
+  John is a YAML enthusiast.
+  He enjoys learning new technologies.
+  Loves clean code.
+
+address: |               # Literal multi-line string
+  123 Tech Park
+  Silicon Valley
+  CA, USA
+
+skills:                  # List
+  - YAML
+  - Python
+  - DevOps
+  - Docker
+  - Kubernetes
+
+contact:                 # Map / Dictionary
+  email: john@edureka.co
+  phone: "+7451871292"
