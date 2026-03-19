@@ -1,0 +1,59 @@
+defaults: &default_config
+  port: 5432
+  username: Utsav
+  password: secret
+
+
+enviroments:
+  development:
+    database: 
+      host: dev-db.local
+      <<: *default_config
+
+  production: 
+    database: 
+      host: prod-db.local
+      <<: *default_config
+  
+  Secrets: 
+    api_key: |
+      sk_test_1234567890abcdef
+      abcdef1234567890sk_task
+    certificate:  |
+      -----BEGIN CERTIFICATE-----
+      MABICOPEMGDqwertyuioplBHUIJ...
+      -----END CERTIFICATE-----
+
+  security: 
+    allowed_ips:
+      - 192.168.0.1
+      - 192.168.0.2
+      - 10.0.0.1
+      - 10.0.0.3
+
+# Application configuration
+app: 
+  name: Sampleapp 
+  version: 1.0
+
+# features toggles
+  features:
+    logging: true
+    signup: true
+    notifications: false
+
+  #server details
+  server1:
+    host: 127.0.0.1
+    port: 8080
+
+  # database configuration  with shared defaults
+  database:
+    host: db.local
+    <<: *default_config
+  
+  # cache config with shared defaults
+  cache:
+    host: cache.local
+    <<: *default_config
+

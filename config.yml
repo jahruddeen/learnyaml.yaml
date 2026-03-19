@@ -35,6 +35,18 @@ server:  # list of dictionaries
       host: api.com 
 
 
+description: |
+  This is myApp
+  It support multi-line text
+  YAML makes it easy to read 
+
+deprecated: null
+
+
+modules:
+  - {name: modules1, enabled: true}  # This is flow types 
+  - name: modules2                     # This Is block types 
+  - enabled: false
 
 
 
