@@ -13,3 +13,1758 @@ API:
   enviroment:
     - ENV=production
     - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+webapp:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
+
+API:
+  images: myapp/web:1.0
+  ports: 
+    - "8080:80"
+  enviroment:
+    - ENV=production
+    - DEBUG=false
