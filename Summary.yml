@@ -1,0 +1,13 @@
+Summary: Data Representation Techniques
+Lesson 2.1: Complex Data Structures
+
+This lesson explores how YAML represents common data structures like lists and dictionaries, including how to nest and combine them for real-world configurations. Learners gain hands-on experience building complex data sets and structuring nested configurations for practical applications such as deployment files and config files.
+
+Lesson 2.2: Document Formatting Styles
+Learners dive into the two core YAML formatting styles—block and flow. Through examples and exercises, they learn how to choose the right style based on readability, complexity, and context. The lesson emphasizes consistent formatting and best practices for creating clean, maintainable YAML documents.
+
+Lesson 2.3: Working with Strings
+This lesson focuses on constructing and manipulating strings in YAML, particularly multi-line values and special characters. Learners explore different string handling techniques, escaping rules, and formatting options. Practical exercises reinforce how to embed strings cleanly in YAML configurations without errors.
+
+Lesson 2.4: Module Wrap-Up and Assessment
+The final lesson consolidates key concepts from the module—structuring data, choosing formatting styles, and managing strings. Learners demonstrate their understanding through a graded assessment and review summary materials to reinforce their grasp of YAML's data representation techniques.
