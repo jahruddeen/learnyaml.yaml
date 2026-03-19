@@ -1,0 +1,40 @@
+name: myApp
+version: 1.0
+debug: true
+
+features: # block style list
+  - login
+  - signup
+  - analytics
+
+feature: [login, signup, analytics] # flow style list
+
+servers: #list 
+  - name: server 1
+    port: 80
+
+  - name: server 2
+    port: 8080
+
+myserver: [{name: server1, port: 80},{name: server2, port: 8080}]
+
+server:  # list of dictionaries
+  - server1:
+      name: appserver
+      port: 80
+      host: app.com 
+
+  - server2:
+      name: webserver
+      port: 8080
+      host: web.com
+
+  - server3:
+      name: apiserver
+      port: 443
+      host: api.com 
+
+
+
+
+
