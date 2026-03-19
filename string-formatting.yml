@@ -1,0 +1,25 @@
+name: "YAML string formatting Demo"
+description : "This files show string formatting with data structures"
+version: 2
+active: true
+deprecated: null
+tags:
+  - "YAML"
+  - "VS Code"
+  - "Formatting"
+tags_flow: ["YAML", "VS Code", "Formatting"]
+author:
+  name: "Utsav Singh"
+  role: "Developer"
+  skills:
+    - "YAML"
+    - "Python"
+    - "DevOps"
+summary: >
+  This is a Folded multi-line string
+  It will display as a singal line in most YAML parsers
+  Extra spaces are coollapsed 
+details: |
+  This is a Literal block string 
+  line Breaks
+  will be parsered 
