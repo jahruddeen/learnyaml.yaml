@@ -1,0 +1,39 @@
+So here’s the thing about YAML: it looks friendly. Indents, colons, and no curly braces—what could go wrong, right? Turns out, a lot. Especially when you throw special characters into the mix.
+
+I remember breaking a whole CI/CD pipeline once because I wrote on: push without thinking twice. Guess what? YAML thought I was trying to enable some kind of boolean logic. Nope. Just wanted to specify an event trigger. Lesson learned.
+
+Special Characters in YAML
+Let’s talk about the characters YAML gets picky about. Some of them seem harmless but aren’t:
+
+Colon (:) – You think it’s just punctuation, YAML thinks you’re starting a key-value pair.
+
+Hash (#) – You meant to talk about version numbers, YAML thinks you’re writing a comment.
+
+Quotes (" or ') – These are your best friends when YAML starts getting judgmental.
+
+Exclamation mark (!) – This is where YAML pulls out the “tags” feature. I still don’t get why anyone needs that.
+
+Ampersands and asterisks (& and *) – Anchors and aliases. Useful, sure, but really easy to trigger accidentally.
+
+So… What Do You Do?
+Honestly? When in doubt, just quote it. Single quotes, double quotes—whatever makes the parser chill out.
+
+Want yes to stay “yes” and not magically become true? Quote it.
+
+Writing 10:30 and don't want it turned into something bizarre? Yep, quote that too.
+
+Including a hashtag that isn’t a comment? You guessed it.
+
+You get the idea.
+
+YAML Doesn’t Use Escaping Like You’d Expect
+Unlike some formats, YAML isn’t big on backslashes or escape characters. It relies more on context. Sometimes too much. If you’re coming from JSON or XML, that might feel weird. But once you wrap your head around it (and start quoting everything risky), things get a lot smoother.
+
+Still, it feels a bit like walking on eggshells. Just one misplaced colon or unquoted word, and boom—broken config, hours of debugging.
+
+Conclusion
+YAML is powerful, clean, and… yeah, a little passive-aggressive. It expects you to know what it’s thinking. So if you're writing content that has anything remotely fancy—special characters, time values, booleans disguised as words—just be cautious.
+
+My rule of thumb? If it looks like something YAML might get confused by, it will.
+
+So save yourself the headache: quote first, debug less later.
